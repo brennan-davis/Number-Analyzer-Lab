@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Unit_2___Number_Analyzer_Lab</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net6.0\Unit 2 - Number Analyzer Lab.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0\Unit 2 - Number Analyzer Lab.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0\Unit 2 - Number Analyzer Lab.deps.json" />
+    <Content Include="bin\Debug\net6.0\Unit 2 - Number Analyzer Lab.runtimeconfig.json" />
+    <Content Include="obj\Debug\net6.0\Unit 2 - Number Analyzer Lab.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\Unit 2 - Number Analyzer Lab.csproj.nuget.dgspec.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net6.0\Unit 2 - Number Analyzer Lab.dll" />
+    <None Include="bin\Debug\net6.0\Unit 2 - Number Analyzer Lab.exe" />
+    <None Include="bin\Debug\net6.0\Unit 2 - Number Analyzer Lab.pdb" />
+    <None Include="obj\Debug\net6.0\apphost.exe" />
+    <None Include="obj\Debug\net6.0\refint\Unit 2 - Number Analyzer Lab.dll" />
+    <None Include="obj\Debug\net6.0\ref\Unit 2 - Number Analyzer Lab.dll" />
+    <None Include="obj\Debug\net6.0\Unit 2 - Number Analyzer Lab.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0\Unit 2 - Number Analyzer Lab.assets.cache" />
+    <None Include="obj\Debug\net6.0\Unit 2 - Number Analyzer Lab.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net6.0\Unit 2 - Number Analyzer Lab.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net6.0\Unit 2 - Number Analyzer Lab.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net6.0\Unit 2 - Number Analyzer Lab.dll" />
+    <None Include="obj\Debug\net6.0\Unit 2 - Number Analyzer Lab.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0\Unit 2 - Number Analyzer Lab.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net6.0\Unit 2 - Number Analyzer Lab.pdb" />
+    <None Include="obj\Debug\net6.0\_IsIncrementalBuild" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\Unit 2 - Number Analyzer Lab.csproj.nuget.g.props" />
+    <None Include="obj\Unit 2 - Number Analyzer Lab.csproj.nuget.g.targets" />
+    <None Include="Unit 2 - Number Analyzer Lab.sln" />
+  </ItemGroup>
+
+</Project>
